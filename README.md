@@ -4,7 +4,9 @@
 
 by [@cryptopsihoz](https://x.com/cryptopsihoz) · [Live demo](https://rimtoln.github.io/psihopus/)
 
-![Psihopus](media/poster.jpg)
+<p align="center">
+  <img src="media/screenshot.png" alt="Psihopus — 8-arm pump.fun trading terminal" width="640">
+</p>
 
 ---
 
@@ -52,7 +54,8 @@ On a 1920×1080 monitor the fullscreen frame is 864×1080, centered.
 ```
 index.html                 the terminal (same file as the live demo)
 versions/psihopus-v1.0.html frozen release
-media/poster.jpg           still from the floor
+media/screenshot.png       terminal screenshot
+media/poster.jpg           same frame, JPEG
 docs/HOW-IT-WORKS.md       pipeline, seats, sonar, ink
 docs/CONTROLS.md           keys and display size
 CHANGELOG.md
